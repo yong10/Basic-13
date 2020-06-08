@@ -175,6 +175,7 @@ namespace Basic13
             }
             return numbers;
         }
+
         static void Main(string[] args){
             //PrintNumbers();
             //PrintOdds();
@@ -187,7 +188,7 @@ namespace Basic13
             // SquareArrayValues(3,6,2,8);
             // EliminateNegatives(3,-10,5,-1);
             // MinMaxAverage(-1,5,3,6);
-            // ShiftValues(2,5,8,3);
+            // ShiftValues(2,5,8,);
             // NumToString(1,1,-1,0);
 
         }
